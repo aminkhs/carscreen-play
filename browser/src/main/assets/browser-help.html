@@ -1,0 +1,9 @@
+<!doctype html><html lang="en"><head><meta name="viewport" content="width=device-width,initial-scale=1"><title>Offline browser test</title><style>body{background:#101418;color:#eef4f5;font:18px system-ui;padding:20px}a{color:#1fd8d9}button{padding:16px;border-radius:14px;background:#1fd8d9;color:#00292a;border:0;font:inherit}video{width:100%;max-height:50vh}p{line-height:1.5}</style></head><body>
+<h1>Offline browser test</h1><p>This page and the test video are bundled with CarScreen Play.</p>
+<button id="check" onclick="document.getElementById('result').textContent='JavaScript works'">Check JavaScript</button><p id="result">Ready</p>
+<video id="sample" controls playsinline preload="metadata" src="test-pattern.mp4"></video>
+<p><button onclick="document.getElementById('sample').play()">Play test video</button> <button onclick="document.getElementById('sample').requestFullscreen()">Fullscreen test video</button></p>
+<p><a href="browser-about.html">Open second test page</a></p>
+<p><a href="https://accounts.google.com/">Test Google sign-in</a></p>
+<p>For YouTube, choose <b>Sign in</b>. Sign-in happens in this embedded browser, and the Android Auto car-screen browser shares the same cookies. Use <b>Clear embedded browsing data</b> to sign out.</p>
+</body></html>

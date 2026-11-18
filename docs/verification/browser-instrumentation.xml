@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="7" failures="0" errors="0" skipped="0" time="40.734" timestamp="2026-11-16T09:41:40" hostname="localhost">
+  <testsuite name="com.cartvlab.android.BrowserInstrumentedTest" tests="3" failures="0" errors="0" skipped="0" time="14.724" timestamp="2026-11-16T09:41:40" hostname="localhost">
+    <properties>
+      <property name="device" value="AndroidAutoPlay_API37(AVD) - 17" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="htmlVideoPlaysFullscreenAndPauses" classname="com.cartvlab.android.BrowserInstrumentedTest" time="9.658" />
+    <testcase name="offlinePageJavascriptHistoryAndRotation" classname="com.cartvlab.android.BrowserInstrumentedTest" time="2.703" />
+    <testcase name="googleLoginStaysOutsideWebviewAndCookiesCanBeCleared" classname="com.cartvlab.android.BrowserInstrumentedTest" time="2.363" />
+  </testsuite>
+  <testsuite name="com.cartvlab.android.LabInstrumentedTest" tests="4" failures="0" errors="0" skipped="0" time="25.243" timestamp="2026-11-16T09:41:40" hostname="localhost">
+    <properties>
+      <property name="device" value="AndroidAutoPlay_API37(AVD) - 17" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="exportsStructuredReportsWithoutMediaIdentifiers" classname="com.cartvlab.android.LabInstrumentedTest" time="4.189" />
+    <testcase name="dashboardLaunchesAndVehicleLauncherIsAbsent" classname="com.cartvlab.android.LabInstrumentedTest" time="2.39" />
+    <testcase name="bundledVideoRendersThenPausesAndSeeks" classname="com.cartvlab.android.LabInstrumentedTest" time="6.383" />
+    <testcase name="projectionConsentCaptureAndStopReleaseResources" classname="com.cartvlab.android.LabInstrumentedTest" time="12.281" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cartvlab.core.common.MirrorProtocolTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-15T21:29:43.805Z" hostname="AMINLAPTOP" time="0.008">
+  <properties/>
+  <testcase name="frameRoundTripPreservesFlagsTimeAndPayload" classname="com.cartvlab.core.common.MirrorProtocolTest" time="0.004"/>
+  <testcase name="truncatedPacketFailsClosed" classname="com.cartvlab.core.common.MirrorProtocolTest" time="0.0"/>
+  <testcase name="rejectsUnknownPacketType" classname="com.cartvlab.core.common.MirrorProtocolTest" time="0.001"/>
+  <testcase name="rejectsOversizedUntrustedPacket" classname="com.cartvlab.core.common.MirrorProtocolTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

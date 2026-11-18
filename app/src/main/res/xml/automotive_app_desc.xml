@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<automotiveApp>
+    <!-- Video / browser screen (Car App Library, navigation template surface). -->
+    <uses name="template"/>
+    <!-- Media entry: audio + cover card shown next to the map in Android Auto's split screen. -->
+    <uses name="media"/>
+</automotiveApp>

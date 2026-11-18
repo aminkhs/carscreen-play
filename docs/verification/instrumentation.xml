@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="4" failures="0" errors="0" skipped="0" time="31.752" timestamp="2026-11-15T21:27:29" hostname="localhost">
+  <testsuite name="com.cartvlab.android.LabInstrumentedTest" tests="4" failures="0" errors="0" skipped="0" time="30.521" timestamp="2026-11-15T21:27:29" hostname="localhost">
+    <properties>
+      <property name="device" value="AndroidAutoPlay_API37(AVD) - 17" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="exportsStructuredReportsWithoutMediaIdentifiers" classname="com.cartvlab.android.LabInstrumentedTest" time="4.829" />
+    <testcase name="dashboardLaunchesAndVehicleLauncherIsAbsent" classname="com.cartvlab.android.LabInstrumentedTest" time="3.523" />
+    <testcase name="bundledVideoRendersThenPausesAndSeeks" classname="com.cartvlab.android.LabInstrumentedTest" time="9.367" />
+    <testcase name="projectionConsentCaptureAndStopReleaseResources" classname="com.cartvlab.android.LabInstrumentedTest" time="12.802" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cartvlab.automotive.CapabilityPolicyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-15T21:29:42.999Z" hostname="AMINLAPTOP" time="0.024">
+  <properties/>
+  <testcase name="noVehicleCapabilityStartsVerified" classname="com.cartvlab.automotive.CapabilityPolicyTest" time="0.019"/>
+  <testcase name="connectionIsUnknown" classname="com.cartvlab.automotive.CapabilityPolicyTest" time="0.001"/>
+  <testcase name="flagAloneNeverUnlocksCarLaunch" classname="com.cartvlab.automotive.CapabilityPolicyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

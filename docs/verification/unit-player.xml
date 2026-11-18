@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cartvlab.player.PlaylistParserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-15T21:29:44.563Z" hostname="AMINLAPTOP" time="0.039">
+  <properties/>
+  <testcase name="ignoresEmptyAndComments" classname="com.cartvlab.player.PlaylistParserTest" time="0.015"/>
+  <testcase name="resolvesRemoteRelativeEntriesOnlyWithBase" classname="com.cartvlab.player.PlaylistParserTest" time="0.018"/>
+  <testcase name="refusesHlsAsPlaylist" classname="com.cartvlab.player.PlaylistParserTest" time="0.0"/>
+  <testcase name="parsesBomTitlesAndIgnoresUnsupportedSchemes" classname="com.cartvlab.player.PlaylistParserTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
